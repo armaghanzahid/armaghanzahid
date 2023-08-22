@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/armaghanzahid?label=Follow&style=social)](https://github.com/armaghanzahid)
 
 
-- 🔭 Currently working at [Auxilis](https://auxilis.com/) - Specialised in AI and Systems Develpment.
+- 🔭 Currently working at [Auxilis](https://auxilis.com/) - as a Software Engineer.
 - 🌱 Focused at learning Angular and AWS Service, with the end-goal of becoming a full stack developer.
 - 👯 Open to collaborate on small to medium projects outside of work to further develop my portfolio.
 <!--
